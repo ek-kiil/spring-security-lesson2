@@ -1,6 +1,6 @@
 # Notes app: Spring Security, lesson 2 starter
 
-The notes app with Exercises 1–4 done. Use it if you didn't finish lesson 1. Spring Boot serves both the API and the frontend (`src/main/resources/static`). The H2 database is in memory and resets on restart.
+The notes app with Exercises 1–2 done: the starting point for lesson 2. Use it if you didn't finish Exercises 1–2. Spring Boot serves both the API and the frontend (`src/main/resources/static`). The H2 database is in memory and resets on restart.
 
 ## Run
 
@@ -20,4 +20,4 @@ Open http://localhost:8080.
 
 ## Exercises
 
-`TODO Exercise N` comments mark the code you change. CSRF protection is back on, as Exercise 4 leaves it, so the page can't add notes until Exercise 5.
+`TODO Exercise N` comments mark the code you change.
